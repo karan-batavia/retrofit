@@ -5,7 +5,7 @@ A type-safe HTTP client for Android and Java.
 
 For more information please see [the website][1].
 
-
+    
 Download
 --------
 
